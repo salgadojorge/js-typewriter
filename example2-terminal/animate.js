@@ -6,7 +6,7 @@ function animate(typewriter) {
             delayAfter: 500
         },
         {
-            text: "whoami\n",
+            text: "Cargando Equipo\n",
             delayAfter: 500
         },
         {
