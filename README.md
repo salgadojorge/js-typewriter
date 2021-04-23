@@ -21,7 +21,7 @@ The complete source for [Example 1](./example1-basic/index.html) is included in 
 
 # Example 2: Terminal #
 
-[View Example 2 Demo…](https://rawgit.com/mehaase/js-typewriter/master/example2-terminal/index.html)
+[View Example 2 Demo…](https://rawgit.com/salgadojorge/js-typewriter/master/example2-terminal/index.html)
 
 This example shows how to construct a more elaborate series of animations by simulating a terminal.
 
